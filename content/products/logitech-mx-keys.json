@@ -1,0 +1,38 @@
+{
+  "slug": "logitech-mx-keys",
+  "title": "Teclado Logitech MX Keys",
+  "description": "Teclado inalámbrico retroiluminado para escribir con comodidad.",
+  "longDescription": "Teclado Logitech MX Keys de la marca Logitech (modelo MX Keys). Teclado inalámbrico retroiluminado para escribir con comodidad. Características principales: Tipo: Inalámbrico (Bluetooth + receptor USB); Retroiluminación: Sí, con sensor de proximidad; Distribución: Español (ES); Batería: Hasta 10 días con luz; Compatibilidad: Windows, macOS, Linux; Extras: Carga USB-C.",
+  "category": "perifericos",
+  "image": "/images/products/logitech-mx-keys.svg",
+  "price": 119,
+  "brand": "Logitech",
+  "model": "MX Keys",
+  "stock": 17,
+  "specs": [
+    {
+      "label": "Tipo",
+      "value": "Inalámbrico (Bluetooth + receptor USB)"
+    },
+    {
+      "label": "Retroiluminación",
+      "value": "Sí, con sensor de proximidad"
+    },
+    {
+      "label": "Distribución",
+      "value": "Español (ES)"
+    },
+    {
+      "label": "Batería",
+      "value": "Hasta 10 días con luz"
+    },
+    {
+      "label": "Compatibilidad",
+      "value": "Windows, macOS, Linux"
+    },
+    {
+      "label": "Extras",
+      "value": "Carga USB-C"
+    }
+  ]
+}

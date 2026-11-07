@@ -1,0 +1,38 @@
+{
+  "slug": "corsair-vengeance-32gb",
+  "title": "Memoria RAM Corsair Vengeance 32 GB",
+  "description": "Kit de 32 GB DDR5 con iluminación RGB.",
+  "longDescription": "Memoria RAM Corsair Vengeance 32 GB de la marca Corsair (modelo Vengeance RGB DDR5). Kit de 32 GB DDR5 con iluminación RGB. Características principales: Capacidad: 32 GB (2 x 16 GB); Velocidad: 6000 MT/s; Latencia: CL36; Tipo: DDR5; Iluminación: RGB; Perfil: Intel XMP 3.0 / AMD EXPO.",
+  "category": "componentes",
+  "image": "/images/products/corsair-vengeance-32gb.svg",
+  "price": 119,
+  "brand": "Corsair",
+  "model": "Vengeance RGB DDR5",
+  "stock": 25,
+  "specs": [
+    {
+      "label": "Capacidad",
+      "value": "32 GB (2 x 16 GB)"
+    },
+    {
+      "label": "Velocidad",
+      "value": "6000 MT/s"
+    },
+    {
+      "label": "Latencia",
+      "value": "CL36"
+    },
+    {
+      "label": "Tipo",
+      "value": "DDR5"
+    },
+    {
+      "label": "Iluminación",
+      "value": "RGB"
+    },
+    {
+      "label": "Perfil",
+      "value": "Intel XMP 3.0 / AMD EXPO"
+    }
+  ]
+}

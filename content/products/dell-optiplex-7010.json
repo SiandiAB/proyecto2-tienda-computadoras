@@ -1,0 +1,38 @@
+{
+  "slug": "dell-optiplex-7010",
+  "title": "PC Dell OptiPlex 7010",
+  "description": "Torre empresarial compacta con Core i7 y gran rendimiento.",
+  "longDescription": "PC Dell OptiPlex 7010 de la marca Dell (modelo OptiPlex 7010 Tower). Torre empresarial compacta con Core i7 y gran rendimiento. Características principales: Procesador: Intel Core i7-13700; RAM: 16 GB DDR4; Almacenamiento: 512 GB SSD; GPU: Intel UHD Graphics 770; Puertos: USB 3.2, HDMI, DisplayPort; Sistema: Windows 11 Pro.",
+  "category": "desktops",
+  "image": "/images/products/dell-optiplex-7010.svg",
+  "price": 799,
+  "brand": "Dell",
+  "model": "OptiPlex 7010 Tower",
+  "stock": 6,
+  "specs": [
+    {
+      "label": "Procesador",
+      "value": "Intel Core i7-13700"
+    },
+    {
+      "label": "RAM",
+      "value": "16 GB DDR4"
+    },
+    {
+      "label": "Almacenamiento",
+      "value": "512 GB SSD"
+    },
+    {
+      "label": "GPU",
+      "value": "Intel UHD Graphics 770"
+    },
+    {
+      "label": "Puertos",
+      "value": "USB 3.2, HDMI, DisplayPort"
+    },
+    {
+      "label": "Sistema",
+      "value": "Windows 11 Pro"
+    }
+  ]
+}

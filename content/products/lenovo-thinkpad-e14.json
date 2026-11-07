@@ -1,0 +1,38 @@
+{
+  "slug": "lenovo-thinkpad-e14",
+  "title": "Laptop Lenovo ThinkPad E14",
+  "description": "Laptop empresarial resistente con Ryzen 5 y teclado ergonómico.",
+  "longDescription": "Laptop Lenovo ThinkPad E14 de la marca Lenovo (modelo ThinkPad E14 Gen 5). Laptop empresarial resistente con Ryzen 5 y teclado ergonómico. Características principales: Pantalla: 14\" FHD; Procesador: AMD Ryzen 5 7530U; RAM: 8 GB DDR4; Almacenamiento: 256 GB SSD; GPU: AMD Radeon integrada; Sistema: Windows 11 Pro.",
+  "category": "laptops",
+  "image": "/images/products/lenovo-thinkpad-e14.svg",
+  "price": 749,
+  "brand": "Lenovo",
+  "model": "ThinkPad E14 Gen 5",
+  "stock": 12,
+  "specs": [
+    {
+      "label": "Pantalla",
+      "value": "14\" FHD"
+    },
+    {
+      "label": "Procesador",
+      "value": "AMD Ryzen 5 7530U"
+    },
+    {
+      "label": "RAM",
+      "value": "8 GB DDR4"
+    },
+    {
+      "label": "Almacenamiento",
+      "value": "256 GB SSD"
+    },
+    {
+      "label": "GPU",
+      "value": "AMD Radeon integrada"
+    },
+    {
+      "label": "Sistema",
+      "value": "Windows 11 Pro"
+    }
+  ]
+}

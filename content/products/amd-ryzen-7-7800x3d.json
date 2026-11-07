@@ -1,0 +1,38 @@
+{
+  "slug": "amd-ryzen-7-7800x3d",
+  "title": "Procesador AMD Ryzen 7 7800X3D",
+  "description": "CPU gaming de 8 núcleos con caché 3D V-Cache.",
+  "longDescription": "Procesador AMD Ryzen 7 7800X3D de la marca AMD (modelo Ryzen 7 7800X3D). CPU gaming de 8 núcleos con caché 3D V-Cache. Características principales: Núcleos / Hilos: 8 / 16; Frecuencia base: 4.2 GHz; Frecuencia boost: 5.0 GHz; Caché: 96 MB (3D V-Cache); Socket: AM5; TDP: 120 W.",
+  "category": "componentes",
+  "image": "/images/products/amd-ryzen-7-7800x3d.svg",
+  "price": 449,
+  "brand": "AMD",
+  "model": "Ryzen 7 7800X3D",
+  "stock": 20,
+  "specs": [
+    {
+      "label": "Núcleos / Hilos",
+      "value": "8 / 16"
+    },
+    {
+      "label": "Frecuencia base",
+      "value": "4.2 GHz"
+    },
+    {
+      "label": "Frecuencia boost",
+      "value": "5.0 GHz"
+    },
+    {
+      "label": "Caché",
+      "value": "96 MB (3D V-Cache)"
+    },
+    {
+      "label": "Socket",
+      "value": "AM5"
+    },
+    {
+      "label": "TDP",
+      "value": "120 W"
+    }
+  ]
+}

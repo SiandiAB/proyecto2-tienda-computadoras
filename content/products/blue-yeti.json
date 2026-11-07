@@ -1,0 +1,38 @@
+{
+  "slug": "blue-yeti",
+  "title": "Micrófono Blue Yeti",
+  "description": "Micrófono USB de condensador con múltiples patrones.",
+  "longDescription": "Micrófono Blue Yeti de la marca Blue (modelo Yeti). Micrófono USB de condensador con múltiples patrones. Características principales: Tipo: Condensador USB; Patrones: Cardioide, bidireccional, omnidireccional, estéreo; Frecuencia: 20 Hz - 20 kHz; Controles: Ganancia, mute, volumen; Salida: Auriculares 3.5 mm; Compatibilidad: Windows, macOS.",
+  "category": "perifericos",
+  "image": "/images/products/blue-yeti.svg",
+  "price": 129,
+  "brand": "Blue",
+  "model": "Yeti",
+  "stock": 9,
+  "specs": [
+    {
+      "label": "Tipo",
+      "value": "Condensador USB"
+    },
+    {
+      "label": "Patrones",
+      "value": "Cardioide, bidireccional, omnidireccional, estéreo"
+    },
+    {
+      "label": "Frecuencia",
+      "value": "20 Hz - 20 kHz"
+    },
+    {
+      "label": "Controles",
+      "value": "Ganancia, mute, volumen"
+    },
+    {
+      "label": "Salida",
+      "value": "Auriculares 3.5 mm"
+    },
+    {
+      "label": "Compatibilidad",
+      "value": "Windows, macOS"
+    }
+  ]
+}

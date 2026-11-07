@@ -1,0 +1,38 @@
+{
+  "slug": "asus-tuf-b650",
+  "title": "Placa Madre ASUS TUF B650-Plus",
+  "description": "Placa base AM5 duradera para Ryzen 7000.",
+  "longDescription": "Placa Madre ASUS TUF B650-Plus de la marca ASUS (modelo TUF Gaming B650-Plus). Placa base AM5 duradera para Ryzen 7000. Características principales: Socket: AM5; Memoria: DDR5 hasta 128 GB; Expansión: PCIe 5.0 x16; Almacenamiento: 2x M.2 + 4x SATA; Red: 2.5 GbE; Formato: ATX.",
+  "category": "componentes",
+  "image": "/images/products/asus-tuf-b650.svg",
+  "price": 189,
+  "brand": "ASUS",
+  "model": "TUF Gaming B650-Plus",
+  "stock": 16,
+  "specs": [
+    {
+      "label": "Socket",
+      "value": "AM5"
+    },
+    {
+      "label": "Memoria",
+      "value": "DDR5 hasta 128 GB"
+    },
+    {
+      "label": "Expansión",
+      "value": "PCIe 5.0 x16"
+    },
+    {
+      "label": "Almacenamiento",
+      "value": "2x M.2 + 4x SATA"
+    },
+    {
+      "label": "Red",
+      "value": "2.5 GbE"
+    },
+    {
+      "label": "Formato",
+      "value": "ATX"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "asus-vg248qg",
+  "title": "Monitor ASUS VG248QG 24\" 165Hz",
+  "description": "Monitor competitivo FHD con 165 Hz y 0.5 ms.",
+  "longDescription": "Monitor ASUS VG248QG 24\" 165Hz de la marca ASUS (modelo VG248QG). Monitor competitivo FHD con 165 Hz y 0.5 ms. Características principales: Tamaño: 24\"; Resolución: 1920 x 1080 (FHD); Tasa de refresco: 165 Hz; Panel: TN; Tiempo de respuesta: 0.5 ms; Conectividad: HDMI, DisplayPort, DVI.",
+  "category": "monitores",
+  "image": "/images/products/asus-vg248qg.svg",
+  "price": 199,
+  "brand": "ASUS",
+  "model": "VG248QG",
+  "stock": 13,
+  "specs": [
+    {
+      "label": "Tamaño",
+      "value": "24\""
+    },
+    {
+      "label": "Resolución",
+      "value": "1920 x 1080 (FHD)"
+    },
+    {
+      "label": "Tasa de refresco",
+      "value": "165 Hz"
+    },
+    {
+      "label": "Panel",
+      "value": "TN"
+    },
+    {
+      "label": "Tiempo de respuesta",
+      "value": "0.5 ms"
+    },
+    {
+      "label": "Conectividad",
+      "value": "HDMI, DisplayPort, DVI"
+    }
+  ]
+}

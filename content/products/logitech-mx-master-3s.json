@@ -1,0 +1,38 @@
+{
+  "slug": "logitech-mx-master-3s",
+  "title": "Ratón Logitech MX Master 3S",
+  "description": "Ratón inalámbrico de productividad con sensor de 8000 DPI.",
+  "longDescription": "Ratón Logitech MX Master 3S de la marca Logitech (modelo MX Master 3S). Ratón inalámbrico de productividad con sensor de 8000 DPI. Características principales: Tipo: Inalámbrico (Bluetooth + receptor USB); DPI: 8000; Botones: 7 programables; Rueda: MagSpeed electromagnética; Batería: Hasta 70 días; Compatibilidad: Windows, macOS, Linux.",
+  "category": "perifericos",
+  "image": "/images/products/logitech-mx-master-3s.svg",
+  "price": 99,
+  "brand": "Logitech",
+  "model": "MX Master 3S",
+  "stock": 22,
+  "specs": [
+    {
+      "label": "Tipo",
+      "value": "Inalámbrico (Bluetooth + receptor USB)"
+    },
+    {
+      "label": "DPI",
+      "value": "8000"
+    },
+    {
+      "label": "Botones",
+      "value": "7 programables"
+    },
+    {
+      "label": "Rueda",
+      "value": "MagSpeed electromagnética"
+    },
+    {
+      "label": "Batería",
+      "value": "Hasta 70 días"
+    },
+    {
+      "label": "Compatibilidad",
+      "value": "Windows, macOS, Linux"
+    }
+  ]
+}

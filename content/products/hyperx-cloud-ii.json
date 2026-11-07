@@ -1,0 +1,38 @@
+{
+  "slug": "hyperx-cloud-ii",
+  "title": "Audífonos HyperX Cloud II",
+  "description": "Headset gaming con sonido envolvente 7.1 virtual.",
+  "longDescription": "Audífonos HyperX Cloud II de la marca HyperX (modelo Cloud II). Headset gaming con sonido envolvente 7.1 virtual. Características principales: Tipo: Diadema cerrada; Drivers: 53 mm; Sonido: 7.1 virtual (USB); Micrófono: Desmontable con cancelación de ruido; Conexión: USB / 3.5 mm; Compatibilidad: PC, PS4, Xbox, Switch.",
+  "category": "perifericos",
+  "image": "/images/products/hyperx-cloud-ii.svg",
+  "price": 89,
+  "brand": "HyperX",
+  "model": "Cloud II",
+  "stock": 15,
+  "specs": [
+    {
+      "label": "Tipo",
+      "value": "Diadema cerrada"
+    },
+    {
+      "label": "Drivers",
+      "value": "53 mm"
+    },
+    {
+      "label": "Sonido",
+      "value": "7.1 virtual (USB)"
+    },
+    {
+      "label": "Micrófono",
+      "value": "Desmontable con cancelación de ruido"
+    },
+    {
+      "label": "Conexión",
+      "value": "USB / 3.5 mm"
+    },
+    {
+      "label": "Compatibilidad",
+      "value": "PC, PS4, Xbox, Switch"
+    }
+  ]
+}

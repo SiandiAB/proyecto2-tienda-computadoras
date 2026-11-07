@@ -1,0 +1,38 @@
+{
+  "slug": "mochila-laptop",
+  "title": "Mochila para Laptop 15.6\"",
+  "description": "Mochila acolchada e impermeable para laptops de hasta 15.6\".",
+  "longDescription": "Mochila para Laptop 15.6\" de la marca Kensington (modelo Classic Backpack). Mochila acolchada e impermeable para laptops de hasta 15.6\". Características principales: Compatibilidad: Laptops de hasta 15.6\"; Compartimento: Acolchado para laptop; Material: Polyester resistente al agua; Bolsillos: Frontales y laterales; Color: Negro; Extras: Correa para maleta.",
+  "category": "accesorios",
+  "image": "/images/products/mochila-laptop.svg",
+  "price": 45,
+  "brand": "Kensington",
+  "model": "Classic Backpack",
+  "stock": 14,
+  "specs": [
+    {
+      "label": "Compatibilidad",
+      "value": "Laptops de hasta 15.6\""
+    },
+    {
+      "label": "Compartimento",
+      "value": "Acolchado para laptop"
+    },
+    {
+      "label": "Material",
+      "value": "Polyester resistente al agua"
+    },
+    {
+      "label": "Bolsillos",
+      "value": "Frontales y laterales"
+    },
+    {
+      "label": "Color",
+      "value": "Negro"
+    },
+    {
+      "label": "Extras",
+      "value": "Correa para maleta"
+    }
+  ]
+}

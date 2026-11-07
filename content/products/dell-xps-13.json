@@ -1,0 +1,38 @@
+{
+  "slug": "dell-xps-13",
+  "title": "Laptop Dell XPS 13",
+  "description": "Ultrabook premium con pantalla InfinityEdge y gran autonomía.",
+  "longDescription": "Laptop Dell XPS 13 de la marca Dell (modelo XPS 13 9315). Ultrabook premium con pantalla InfinityEdge y gran autonomía. Características principales: Pantalla: 13.4\" FHD+ InfinityEdge; Procesador: Intel Core i7-1360P; RAM: 16 GB LPDDR5; Almacenamiento: 1 TB SSD; GPU: Intel Iris Xe; Sistema: Windows 11.",
+  "category": "laptops",
+  "image": "/images/products/dell-xps-13.svg",
+  "price": 1399,
+  "brand": "Dell",
+  "model": "XPS 13 9315",
+  "stock": 4,
+  "specs": [
+    {
+      "label": "Pantalla",
+      "value": "13.4\" FHD+ InfinityEdge"
+    },
+    {
+      "label": "Procesador",
+      "value": "Intel Core i7-1360P"
+    },
+    {
+      "label": "RAM",
+      "value": "16 GB LPDDR5"
+    },
+    {
+      "label": "Almacenamiento",
+      "value": "1 TB SSD"
+    },
+    {
+      "label": "GPU",
+      "value": "Intel Iris Xe"
+    },
+    {
+      "label": "Sistema",
+      "value": "Windows 11"
+    }
+  ]
+}

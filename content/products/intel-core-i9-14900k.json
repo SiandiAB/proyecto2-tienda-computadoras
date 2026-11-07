@@ -1,0 +1,38 @@
+{
+  "slug": "intel-core-i9-14900k",
+  "title": "Procesador Intel Core i9-14900K",
+  "description": "CPU de escritorio de 24 núcleos para entusiastas.",
+  "longDescription": "Procesador Intel Core i9-14900K de la marca Intel (modelo Core i9-14900K). CPU de escritorio de 24 núcleos para entusiastas. Características principales: Núcleos / Hilos: 24 / 32 (8P + 16E); Frecuencia base: 3.2 GHz; Frecuencia turbo: 6.0 GHz; Caché: 36 MB; Socket: LGA 1700; TDP: 125 W.",
+  "category": "componentes",
+  "image": "/images/products/intel-core-i9-14900k.svg",
+  "price": 599,
+  "brand": "Intel",
+  "model": "Core i9-14900K",
+  "stock": 14,
+  "specs": [
+    {
+      "label": "Núcleos / Hilos",
+      "value": "24 / 32 (8P + 16E)"
+    },
+    {
+      "label": "Frecuencia base",
+      "value": "3.2 GHz"
+    },
+    {
+      "label": "Frecuencia turbo",
+      "value": "6.0 GHz"
+    },
+    {
+      "label": "Caché",
+      "value": "36 MB"
+    },
+    {
+      "label": "Socket",
+      "value": "LGA 1700"
+    },
+    {
+      "label": "TDP",
+      "value": "125 W"
+    }
+  ]
+}

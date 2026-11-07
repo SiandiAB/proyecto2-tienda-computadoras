@@ -1,0 +1,38 @@
+{
+  "slug": "mousepad-xl",
+  "title": "Mousepad XL Gamer",
+  "description": "Mousepad extra grande con superficie de tela microtexturizada.",
+  "longDescription": "Mousepad XL Gamer de la marca Razer (modelo Gigantus V2). Mousepad extra grande con superficie de tela microtexturizada. Características principales: Tamaño: 900 x 400 mm; Superficie: Tela microtexturizada; Base: Antideslizante de goma; Grosor: 3 mm; Bordes: Cosidos reforzados; Uso: Gaming y oficina.",
+  "category": "accesorios",
+  "image": "/images/products/mousepad-xl.svg",
+  "price": 29,
+  "brand": "Razer",
+  "model": "Gigantus V2",
+  "stock": 34,
+  "specs": [
+    {
+      "label": "Tamaño",
+      "value": "900 x 400 mm"
+    },
+    {
+      "label": "Superficie",
+      "value": "Tela microtexturizada"
+    },
+    {
+      "label": "Base",
+      "value": "Antideslizante de goma"
+    },
+    {
+      "label": "Grosor",
+      "value": "3 mm"
+    },
+    {
+      "label": "Bordes",
+      "value": "Cosidos reforzados"
+    },
+    {
+      "label": "Uso",
+      "value": "Gaming y oficina"
+    }
+  ]
+}

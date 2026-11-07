@@ -1,0 +1,38 @@
+{
+  "slug": "asus-vivobook-15",
+  "title": "Laptop ASUS VivoBook 15",
+  "description": "Portátil delgada para el día a día con Core i5 de 12.ª generación.",
+  "longDescription": "Laptop ASUS VivoBook 15 de la marca ASUS (modelo VivoBook 15 X1504). Portátil delgada para el día a día con Core i5 de 12.ª generación. Características principales: Pantalla: 15.6\" FHD; Procesador: Intel Core i5-1235U; RAM: 8 GB DDR4; Almacenamiento: 512 GB SSD; GPU: Intel Iris Xe; Sistema: Windows 11 Home.",
+  "category": "laptops",
+  "image": "/images/products/asus-vivobook-15.svg",
+  "price": 599,
+  "brand": "ASUS",
+  "model": "VivoBook 15 X1504",
+  "stock": 15,
+  "specs": [
+    {
+      "label": "Pantalla",
+      "value": "15.6\" FHD"
+    },
+    {
+      "label": "Procesador",
+      "value": "Intel Core i5-1235U"
+    },
+    {
+      "label": "RAM",
+      "value": "8 GB DDR4"
+    },
+    {
+      "label": "Almacenamiento",
+      "value": "512 GB SSD"
+    },
+    {
+      "label": "GPU",
+      "value": "Intel Iris Xe"
+    },
+    {
+      "label": "Sistema",
+      "value": "Windows 11 Home"
+    }
+  ]
+}

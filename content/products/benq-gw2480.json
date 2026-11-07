@@ -1,0 +1,38 @@
+{
+  "slug": "benq-gw2480",
+  "title": "Monitor BenQ GW2480 24\"",
+  "description": "Monitor IPS de oficina con tecnología de bajo parpadeo.",
+  "longDescription": "Monitor BenQ GW2480 24\" de la marca BenQ (modelo GW2480). Monitor IPS de oficina con tecnología de bajo parpadeo. Características principales: Tamaño: 24\"; Resolución: 1920 x 1080 (FHD); Tasa de refresco: 60 Hz; Panel: IPS; Conectividad: HDMI, DisplayPort, VGA; Extras: Eye-Care, altavoces.",
+  "category": "monitores",
+  "image": "/images/products/benq-gw2480.svg",
+  "price": 149,
+  "brand": "BenQ",
+  "model": "GW2480",
+  "stock": 18,
+  "specs": [
+    {
+      "label": "Tamaño",
+      "value": "24\""
+    },
+    {
+      "label": "Resolución",
+      "value": "1920 x 1080 (FHD)"
+    },
+    {
+      "label": "Tasa de refresco",
+      "value": "60 Hz"
+    },
+    {
+      "label": "Panel",
+      "value": "IPS"
+    },
+    {
+      "label": "Conectividad",
+      "value": "HDMI, DisplayPort, VGA"
+    },
+    {
+      "label": "Extras",
+      "value": "Eye-Care, altavoces"
+    }
+  ]
+}

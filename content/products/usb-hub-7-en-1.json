@@ -1,0 +1,38 @@
+{
+  "slug": "usb-hub-7-en-1",
+  "title": "Hub USB-C 7 en 1",
+  "description": "Hub USB-C con HDMI, lector de tarjetas y carga de 100 W.",
+  "longDescription": "Hub USB-C 7 en 1 de la marca Anker (modelo PowerExpand 7-en-1). Hub USB-C con HDMI, lector de tarjetas y carga de 100 W. Características principales: Puertos: HDMI, 2x USB-A, USB-C PD, SD, microSD; Salida de video: 4K a 30 Hz; Carga: Hasta 100 W Power Delivery; Material: Aluminio; Conexión: USB-C; Compatibilidad: Windows, macOS, iPadOS.",
+  "category": "accesorios",
+  "image": "/images/products/usb-hub-7-en-1.svg",
+  "price": 49,
+  "brand": "Anker",
+  "model": "PowerExpand 7-en-1",
+  "stock": 19,
+  "specs": [
+    {
+      "label": "Puertos",
+      "value": "HDMI, 2x USB-A, USB-C PD, SD, microSD"
+    },
+    {
+      "label": "Salida de video",
+      "value": "4K a 30 Hz"
+    },
+    {
+      "label": "Carga",
+      "value": "Hasta 100 W Power Delivery"
+    },
+    {
+      "label": "Material",
+      "value": "Aluminio"
+    },
+    {
+      "label": "Conexión",
+      "value": "USB-C"
+    },
+    {
+      "label": "Compatibilidad",
+      "value": "Windows, macOS, iPadOS"
+    }
+  ]
+}

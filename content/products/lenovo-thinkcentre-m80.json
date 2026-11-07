@@ -1,0 +1,38 @@
+{
+  "slug": "lenovo-thinkcentre-m80",
+  "title": "PC Lenovo ThinkCentre M80",
+  "description": "Torre potente con Ryzen 7 y doble unidad de almacenamiento.",
+  "longDescription": "PC Lenovo ThinkCentre M80 de la marca Lenovo (modelo ThinkCentre M80s). Torre potente con Ryzen 7 y doble unidad de almacenamiento. Características principales: Procesador: AMD Ryzen 7 5800G; RAM: 16 GB DDR4; Almacenamiento: 512 GB SSD + 1 TB HDD; GPU: AMD Radeon integrada; Conectividad: Wi-Fi 6 + Bluetooth; Sistema: Windows 11.",
+  "category": "desktops",
+  "image": "/images/products/lenovo-thinkcentre-m80.svg",
+  "price": 849,
+  "brand": "Lenovo",
+  "model": "ThinkCentre M80s",
+  "stock": 7,
+  "specs": [
+    {
+      "label": "Procesador",
+      "value": "AMD Ryzen 7 5800G"
+    },
+    {
+      "label": "RAM",
+      "value": "16 GB DDR4"
+    },
+    {
+      "label": "Almacenamiento",
+      "value": "512 GB SSD + 1 TB HDD"
+    },
+    {
+      "label": "GPU",
+      "value": "AMD Radeon integrada"
+    },
+    {
+      "label": "Conectividad",
+      "value": "Wi-Fi 6 + Bluetooth"
+    },
+    {
+      "label": "Sistema",
+      "value": "Windows 11"
+    }
+  ]
+}

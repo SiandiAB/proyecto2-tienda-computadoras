@@ -1,0 +1,38 @@
+{
+  "slug": "lg-27gp850",
+  "title": "Monitor LG UltraGear 27\" QHD 165Hz",
+  "description": "Monitor gaming QHD con 165 Hz y respuesta de 1 ms.",
+  "longDescription": "Monitor LG UltraGear 27\" QHD 165Hz de la marca LG (modelo 27GP850-B). Monitor gaming QHD con 165 Hz y respuesta de 1 ms. Características principales: Tamaño: 27\"; Resolución: 2560 x 1440 (QHD); Tasa de refresco: 165 Hz; Panel: Nano IPS; Tiempo de respuesta: 1 ms; Conectividad: HDMI 2.0, DisplayPort 1.4.",
+  "category": "monitores",
+  "image": "/images/products/lg-27gp850.svg",
+  "price": 379,
+  "brand": "LG",
+  "model": "27GP850-B",
+  "stock": 8,
+  "specs": [
+    {
+      "label": "Tamaño",
+      "value": "27\""
+    },
+    {
+      "label": "Resolución",
+      "value": "2560 x 1440 (QHD)"
+    },
+    {
+      "label": "Tasa de refresco",
+      "value": "165 Hz"
+    },
+    {
+      "label": "Panel",
+      "value": "Nano IPS"
+    },
+    {
+      "label": "Tiempo de respuesta",
+      "value": "1 ms"
+    },
+    {
+      "label": "Conectividad",
+      "value": "HDMI 2.0, DisplayPort 1.4"
+    }
+  ]
+}

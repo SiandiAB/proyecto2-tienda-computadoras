@@ -1,0 +1,38 @@
+{
+  "slug": "base-refrigerante",
+  "title": "Base Refrigerante para Laptop",
+  "description": "Base con ventilador para mantener fresca la laptop.",
+  "longDescription": "Base Refrigerante para Laptop de la marca Klim (modelo Cool+). Base con ventilador para mantener fresca la laptop. Características principales: Ventiladores: 1 de 120 mm; Alturas: 5 posiciones; Alimentación: USB; Compatibilidad: Laptops de 11\" a 17\"; Material: Plástico + malla metálica; Ruido: Bajo (< 30 dB).",
+  "category": "accesorios",
+  "image": "/images/products/base-refrigerante.svg",
+  "price": 25,
+  "brand": "Klim",
+  "model": "Cool+",
+  "stock": 28,
+  "specs": [
+    {
+      "label": "Ventiladores",
+      "value": "1 de 120 mm"
+    },
+    {
+      "label": "Alturas",
+      "value": "5 posiciones"
+    },
+    {
+      "label": "Alimentación",
+      "value": "USB"
+    },
+    {
+      "label": "Compatibilidad",
+      "value": "Laptops de 11\" a 17\""
+    },
+    {
+      "label": "Material",
+      "value": "Plástico + malla metálica"
+    },
+    {
+      "label": "Ruido",
+      "value": "Bajo (< 30 dB)"
+    }
+  ]
+}

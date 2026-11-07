@@ -1,0 +1,38 @@
+{
+  "slug": "samsung-odyssey-g5",
+  "title": "Monitor Samsung Odyssey G5 32\" QHD",
+  "description": "Monitor curvo QHD de 32\" con 144 Hz.",
+  "longDescription": "Monitor Samsung Odyssey G5 32\" QHD de la marca Samsung (modelo Odyssey G5 G50D). Monitor curvo QHD de 32\" con 144 Hz. Características principales: Tamaño: 32\"; Resolución: 2560 x 1440 (QHD); Tasa de refresco: 144 Hz; Panel: VA curvo 1000R; Tiempo de respuesta: 1 ms; Conectividad: HDMI 2.0, DisplayPort 1.2.",
+  "category": "monitores",
+  "image": "/images/products/samsung-odyssey-g5.svg",
+  "price": 299,
+  "brand": "Samsung",
+  "model": "Odyssey G5 G50D",
+  "stock": 7,
+  "specs": [
+    {
+      "label": "Tamaño",
+      "value": "32\""
+    },
+    {
+      "label": "Resolución",
+      "value": "2560 x 1440 (QHD)"
+    },
+    {
+      "label": "Tasa de refresco",
+      "value": "144 Hz"
+    },
+    {
+      "label": "Panel",
+      "value": "VA curvo 1000R"
+    },
+    {
+      "label": "Tiempo de respuesta",
+      "value": "1 ms"
+    },
+    {
+      "label": "Conectividad",
+      "value": "HDMI 2.0, DisplayPort 1.2"
+    }
+  ]
+}

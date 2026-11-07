@@ -1,0 +1,38 @@
+{
+  "slug": "pc-gamer-armada",
+  "title": "PC Gamer Armada RTX 4060",
+  "description": "PC de escritorio para juegos con RTX 4060 y Ryzen 5 de nueva generación.",
+  "longDescription": "PC Gamer Armada RTX 4060 de la marca Armada (modelo Armada GX-7600). PC de escritorio para juegos con RTX 4060 y Ryzen 5 de nueva generación. Características principales: Procesador: AMD Ryzen 5 7600; RAM: 16 GB DDR5; Almacenamiento: 1 TB SSD NVMe; GPU: NVIDIA GeForce RTX 4060 8 GB; Fuente: 650 W 80 Plus Bronze; Sistema: Windows 11.",
+  "category": "desktops",
+  "image": "/images/products/pc-gamer-armada.svg",
+  "price": 1249,
+  "brand": "Armada",
+  "model": "Armada GX-7600",
+  "stock": 3,
+  "specs": [
+    {
+      "label": "Procesador",
+      "value": "AMD Ryzen 5 7600"
+    },
+    {
+      "label": "RAM",
+      "value": "16 GB DDR5"
+    },
+    {
+      "label": "Almacenamiento",
+      "value": "1 TB SSD NVMe"
+    },
+    {
+      "label": "GPU",
+      "value": "NVIDIA GeForce RTX 4060 8 GB"
+    },
+    {
+      "label": "Fuente",
+      "value": "650 W 80 Plus Bronze"
+    },
+    {
+      "label": "Sistema",
+      "value": "Windows 11"
+    }
+  ]
+}

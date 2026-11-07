@@ -1,0 +1,38 @@
+{
+  "slug": "samsung-980-pro-1tb",
+  "title": "SSD Samsung 980 PRO 1 TB",
+  "description": "SSD NVMe PCIe 4.0 de alto rendimiento.",
+  "longDescription": "SSD Samsung 980 PRO 1 TB de la marca Samsung (modelo 980 PRO 1 TB). SSD NVMe PCIe 4.0 de alto rendimiento. Características principales: Capacidad: 1 TB; Interfaz: PCIe 4.0 NVMe M.2; Lectura: 7000 MB/s; Escritura: 5000 MB/s; Factor de forma: M.2 2280; Cifrado: AES 256 bits.",
+  "category": "componentes",
+  "image": "/images/products/samsung-980-pro-1tb.svg",
+  "price": 99,
+  "brand": "Samsung",
+  "model": "980 PRO 1 TB",
+  "stock": 30,
+  "specs": [
+    {
+      "label": "Capacidad",
+      "value": "1 TB"
+    },
+    {
+      "label": "Interfaz",
+      "value": "PCIe 4.0 NVMe M.2"
+    },
+    {
+      "label": "Lectura",
+      "value": "7000 MB/s"
+    },
+    {
+      "label": "Escritura",
+      "value": "5000 MB/s"
+    },
+    {
+      "label": "Factor de forma",
+      "value": "M.2 2280"
+    },
+    {
+      "label": "Cifrado",
+      "value": "AES 256 bits"
+    }
+  ]
+}

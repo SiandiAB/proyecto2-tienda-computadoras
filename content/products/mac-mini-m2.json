@@ -1,0 +1,38 @@
+{
+  "slug": "mac-mini-m2",
+  "title": "Apple Mac mini M2",
+  "description": "Computadora de escritorio compacta con el chip Apple M2.",
+  "longDescription": "Apple Mac mini M2 de la marca Apple (modelo Mac mini M2). Computadora de escritorio compacta con el chip Apple M2. Características principales: Chip: Apple M2 (8 CPU / 10 GPU); RAM: 8 GB unificada; Almacenamiento: 256 GB SSD; Puertos: Thunderbolt 4, HDMI, USB-A; Conectividad: Wi-Fi 6E + Bluetooth 5.3; Sistema: macOS.",
+  "category": "desktops",
+  "image": "/images/products/mac-mini-m2.svg",
+  "price": 599,
+  "brand": "Apple",
+  "model": "Mac mini M2",
+  "stock": 9,
+  "specs": [
+    {
+      "label": "Chip",
+      "value": "Apple M2 (8 CPU / 10 GPU)"
+    },
+    {
+      "label": "RAM",
+      "value": "8 GB unificada"
+    },
+    {
+      "label": "Almacenamiento",
+      "value": "256 GB SSD"
+    },
+    {
+      "label": "Puertos",
+      "value": "Thunderbolt 4, HDMI, USB-A"
+    },
+    {
+      "label": "Conectividad",
+      "value": "Wi-Fi 6E + Bluetooth 5.3"
+    },
+    {
+      "label": "Sistema",
+      "value": "macOS"
+    }
+  ]
+}

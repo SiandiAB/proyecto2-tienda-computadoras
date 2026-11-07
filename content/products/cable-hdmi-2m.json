@@ -1,0 +1,38 @@
+{
+  "slug": "cable-hdmi-2m",
+  "title": "Cable HDMI 2.1 2m",
+  "description": "Cable HDMI 2.1 que soporta 8K a 60 Hz.",
+  "longDescription": "Cable HDMI 2.1 2m de la marca Ugreen (modelo HDMI 2.1). Cable HDMI 2.1 que soporta 8K a 60 Hz. Características principales: Versión: HDMI 2.1; Resolución máxima: 8K a 60 Hz / 4K a 120 Hz; Longitud: 2 metros; Conectores: HDMI macho a macho; Material: Nylon trenzado; Compatibilidad: TV, monitores, consolas.",
+  "category": "accesorios",
+  "image": "/images/products/cable-hdmi-2m.svg",
+  "price": 12,
+  "brand": "Ugreen",
+  "model": "HDMI 2.1",
+  "stock": 50,
+  "specs": [
+    {
+      "label": "Versión",
+      "value": "HDMI 2.1"
+    },
+    {
+      "label": "Resolución máxima",
+      "value": "8K a 60 Hz / 4K a 120 Hz"
+    },
+    {
+      "label": "Longitud",
+      "value": "2 metros"
+    },
+    {
+      "label": "Conectores",
+      "value": "HDMI macho a macho"
+    },
+    {
+      "label": "Material",
+      "value": "Nylon trenzado"
+    },
+    {
+      "label": "Compatibilidad",
+      "value": "TV, monitores, consolas"
+    }
+  ]
+}

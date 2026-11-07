@@ -1,0 +1,38 @@
+{
+  "slug": "logitech-c920",
+  "title": "Cámara Logitech C920 HD Pro",
+  "description": "Cámara web Full HD 1080p con micrófonos duales.",
+  "longDescription": "Cámara Logitech C920 HD Pro de la marca Logitech (modelo C920 HD Pro). Cámara web Full HD 1080p con micrófonos duales. Características principales: Resolución: 1080p a 30 fps; Micrófono: Doble, estéreo; Enfoque: Automático; Campo de visión: 78°; Conexión: USB-A; Compatibilidad: Zoom, Teams, Meet.",
+  "category": "perifericos",
+  "image": "/images/products/logitech-c920.svg",
+  "price": 79,
+  "brand": "Logitech",
+  "model": "C920 HD Pro",
+  "stock": 20,
+  "specs": [
+    {
+      "label": "Resolución",
+      "value": "1080p a 30 fps"
+    },
+    {
+      "label": "Micrófono",
+      "value": "Doble, estéreo"
+    },
+    {
+      "label": "Enfoque",
+      "value": "Automático"
+    },
+    {
+      "label": "Campo de visión",
+      "value": "78°"
+    },
+    {
+      "label": "Conexión",
+      "value": "USB-A"
+    },
+    {
+      "label": "Compatibilidad",
+      "value": "Zoom, Teams, Meet"
+    }
+  ]
+}

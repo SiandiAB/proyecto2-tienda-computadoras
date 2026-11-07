@@ -1,0 +1,38 @@
+{
+  "slug": "acer-nitro-vg271u",
+  "title": "Monitor Acer Nitro VG271U 27\"",
+  "description": "Monitor WQHD IPS de 27\" con 144 Hz.",
+  "longDescription": "Monitor Acer Nitro VG271U 27\" de la marca Acer (modelo Nitro VG271U M3). Monitor WQHD IPS de 27\" con 144 Hz. Características principales: Tamaño: 27\"; Resolución: 2560 x 1440 (WQHD); Tasa de refresco: 144 Hz; Panel: IPS; Tiempo de respuesta: 1 ms; Conectividad: HDMI 2.0, DisplayPort 1.2.",
+  "category": "monitores",
+  "image": "/images/products/acer-nitro-vg271u.svg",
+  "price": 229,
+  "brand": "Acer",
+  "model": "Nitro VG271U M3",
+  "stock": 11,
+  "specs": [
+    {
+      "label": "Tamaño",
+      "value": "27\""
+    },
+    {
+      "label": "Resolución",
+      "value": "2560 x 1440 (WQHD)"
+    },
+    {
+      "label": "Tasa de refresco",
+      "value": "144 Hz"
+    },
+    {
+      "label": "Panel",
+      "value": "IPS"
+    },
+    {
+      "label": "Tiempo de respuesta",
+      "value": "1 ms"
+    },
+    {
+      "label": "Conectividad",
+      "value": "HDMI 2.0, DisplayPort 1.2"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "logitech-z313",
+  "title": "Parlantes Logitech Z313",
+  "description": "Sistema de bocinas 2.1 con subwoofer.",
+  "longDescription": "Parlantes Logitech Z313 de la marca Logitech (modelo Z313). Sistema de bocinas 2.1 con subwoofer. Características principales: Canales: 2.1; Potencia: 25 W RMS; Subwoofer: Incluido; Control: De volumen con cable; Entrada: 3.5 mm; Compatibilidad: PC, consolas, TV.",
+  "category": "perifericos",
+  "image": "/images/products/logitech-z313.svg",
+  "price": 39,
+  "brand": "Logitech",
+  "model": "Z313",
+  "stock": 26,
+  "specs": [
+    {
+      "label": "Canales",
+      "value": "2.1"
+    },
+    {
+      "label": "Potencia",
+      "value": "25 W RMS"
+    },
+    {
+      "label": "Subwoofer",
+      "value": "Incluido"
+    },
+    {
+      "label": "Control",
+      "value": "De volumen con cable"
+    },
+    {
+      "label": "Entrada",
+      "value": "3.5 mm"
+    },
+    {
+      "label": "Compatibilidad",
+      "value": "PC, consolas, TV"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "asus-expertcenter-d5",
+  "title": "PC ASUS ExpertCenter D5",
+  "description": "Equipo confiable para tareas de oficina con Core i5.",
+  "longDescription": "PC ASUS ExpertCenter D5 de la marca ASUS (modelo ExpertCenter D5 SFF). Equipo confiable para tareas de oficina con Core i5. Características principales: Procesador: Intel Core i5-13400; RAM: 16 GB DDR4; Almacenamiento: 512 GB SSD; GPU: Intel UHD Graphics 730; Factor de forma: Small Form Factor; Sistema: Windows 11.",
+  "category": "desktops",
+  "image": "/images/products/asus-expertcenter-d5.svg",
+  "price": 699,
+  "brand": "ASUS",
+  "model": "ExpertCenter D5 SFF",
+  "stock": 11,
+  "specs": [
+    {
+      "label": "Procesador",
+      "value": "Intel Core i5-13400"
+    },
+    {
+      "label": "RAM",
+      "value": "16 GB DDR4"
+    },
+    {
+      "label": "Almacenamiento",
+      "value": "512 GB SSD"
+    },
+    {
+      "label": "GPU",
+      "value": "Intel UHD Graphics 730"
+    },
+    {
+      "label": "Factor de forma",
+      "value": "Small Form Factor"
+    },
+    {
+      "label": "Sistema",
+      "value": "Windows 11"
+    }
+  ]
+}

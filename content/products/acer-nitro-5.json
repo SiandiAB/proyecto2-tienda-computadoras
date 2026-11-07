@@ -1,0 +1,38 @@
+{
+  "slug": "acer-nitro-5",
+  "title": "Laptop Gamer Acer Nitro 5",
+  "description": "Laptop gamer de 15.6\" con NVIDIA RTX 4050 e Intel Core i7.",
+  "longDescription": "Laptop Gamer Acer Nitro 5 de la marca Acer (modelo Nitro 5 AN515-58). Laptop gamer de 15.6\" con NVIDIA RTX 4050 e Intel Core i7. Características principales: Pantalla: 15.6\" FHD IPS 144 Hz; Procesador: Intel Core i7-12650H; RAM: 16 GB DDR4; Almacenamiento: 512 GB SSD NVMe; GPU: NVIDIA GeForce RTX 4050 6 GB; Sistema: Windows 11 Home.",
+  "category": "laptops",
+  "image": "/images/products/acer-nitro-5.svg",
+  "price": 1099,
+  "brand": "Acer",
+  "model": "Nitro 5 AN515-58",
+  "stock": 8,
+  "specs": [
+    {
+      "label": "Pantalla",
+      "value": "15.6\" FHD IPS 144 Hz"
+    },
+    {
+      "label": "Procesador",
+      "value": "Intel Core i7-12650H"
+    },
+    {
+      "label": "RAM",
+      "value": "16 GB DDR4"
+    },
+    {
+      "label": "Almacenamiento",
+      "value": "512 GB SSD NVMe"
+    },
+    {
+      "label": "GPU",
+      "value": "NVIDIA GeForce RTX 4050 6 GB"
+    },
+    {
+      "label": "Sistema",
+      "value": "Windows 11 Home"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "dell-s2721qs",
+  "title": "Monitor Dell S2721QS 27\" 4K",
+  "description": "Monitor 4K IPS con gran fidelidad de color.",
+  "longDescription": "Monitor Dell S2721QS 27\" 4K de la marca Dell (modelo S2721QS). Monitor 4K IPS con gran fidelidad de color. Características principales: Tamaño: 27\"; Resolución: 3840 x 2160 (4K UHD); Tasa de refresco: 60 Hz; Panel: IPS; Conectividad: HDMI 2.0, DisplayPort 1.2; Altavoces: Integrados 3 W.",
+  "category": "monitores",
+  "image": "/images/products/dell-s2721qs.svg",
+  "price": 329,
+  "brand": "Dell",
+  "model": "S2721QS",
+  "stock": 9,
+  "specs": [
+    {
+      "label": "Tamaño",
+      "value": "27\""
+    },
+    {
+      "label": "Resolución",
+      "value": "3840 x 2160 (4K UHD)"
+    },
+    {
+      "label": "Tasa de refresco",
+      "value": "60 Hz"
+    },
+    {
+      "label": "Panel",
+      "value": "IPS"
+    },
+    {
+      "label": "Conectividad",
+      "value": "HDMI 2.0, DisplayPort 1.2"
+    },
+    {
+      "label": "Altavoces",
+      "value": "Integrados 3 W"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "hp-elitedesk-800",
+  "title": "PC HP EliteDesk 800 G9",
+  "description": "Equipo de escritorio de perfil pequeño ideal para oficinas.",
+  "longDescription": "PC HP EliteDesk 800 G9 de la marca HP (modelo EliteDesk 800 G9 SFF). Equipo de escritorio de perfil pequeño ideal para oficinas. Características principales: Procesador: Intel Core i7-13700; RAM: 16 GB DDR5; Almacenamiento: 1 TB SSD NVMe; GPU: Intel UHD Graphics 770; Factor de forma: Small Form Factor; Sistema: Windows 11 Pro.",
+  "category": "desktops",
+  "image": "/images/products/hp-elitedesk-800.svg",
+  "price": 899,
+  "brand": "HP",
+  "model": "EliteDesk 800 G9 SFF",
+  "stock": 5,
+  "specs": [
+    {
+      "label": "Procesador",
+      "value": "Intel Core i7-13700"
+    },
+    {
+      "label": "RAM",
+      "value": "16 GB DDR5"
+    },
+    {
+      "label": "Almacenamiento",
+      "value": "1 TB SSD NVMe"
+    },
+    {
+      "label": "GPU",
+      "value": "Intel UHD Graphics 770"
+    },
+    {
+      "label": "Factor de forma",
+      "value": "Small Form Factor"
+    },
+    {
+      "label": "Sistema",
+      "value": "Windows 11 Pro"
+    }
+  ]
+}

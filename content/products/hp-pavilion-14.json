@@ -1,0 +1,38 @@
+{
+  "slug": "hp-pavilion-14",
+  "title": "Laptop HP Pavilion 14",
+  "description": "Portátil versátil para estudiantes con Core i5 y SSD rápido.",
+  "longDescription": "Laptop HP Pavilion 14 de la marca HP (modelo Pavilion 14-ec). Portátil versátil para estudiantes con Core i5 y SSD rápido. Características principales: Pantalla: 14\" FHD; Procesador: Intel Core i5-1335U; RAM: 8 GB DDR4; Almacenamiento: 512 GB SSD; GPU: Intel Iris Xe; Sistema: Windows 11 Home.",
+  "category": "laptops",
+  "image": "/images/products/hp-pavilion-14.svg",
+  "price": 649,
+  "brand": "HP",
+  "model": "Pavilion 14-ec",
+  "stock": 10,
+  "specs": [
+    {
+      "label": "Pantalla",
+      "value": "14\" FHD"
+    },
+    {
+      "label": "Procesador",
+      "value": "Intel Core i5-1335U"
+    },
+    {
+      "label": "RAM",
+      "value": "8 GB DDR4"
+    },
+    {
+      "label": "Almacenamiento",
+      "value": "512 GB SSD"
+    },
+    {
+      "label": "GPU",
+      "value": "Intel Iris Xe"
+    },
+    {
+      "label": "Sistema",
+      "value": "Windows 11 Home"
+    }
+  ]
+}

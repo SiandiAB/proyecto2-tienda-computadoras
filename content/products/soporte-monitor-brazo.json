@@ -1,0 +1,38 @@
+{
+  "slug": "soporte-monitor-brazo",
+  "title": "Soporte para Monitor con Brazo",
+  "description": "Brazo articulado para monitores de 17\" a 32\".",
+  "longDescription": "Soporte para Monitor con Brazo de la marca North Bayou (modelo NB F80). Brazo articulado para monitores de 17\" a 32\". Características principales: Compatibilidad: Monitores de 17\" a 32\"; Montaje: VESA 75 x 75 / 100 x 100; Peso soportado: Hasta 9 kg; Ajustes: Altura, inclinación y giro; Instalación: Abrazadera o perforación; Cableado: Organizador integrado.",
+  "category": "accesorios",
+  "image": "/images/products/soporte-monitor-brazo.svg",
+  "price": 35,
+  "brand": "North Bayou",
+  "model": "NB F80",
+  "stock": 21,
+  "specs": [
+    {
+      "label": "Compatibilidad",
+      "value": "Monitores de 17\" a 32\""
+    },
+    {
+      "label": "Montaje",
+      "value": "VESA 75 x 75 / 100 x 100"
+    },
+    {
+      "label": "Peso soportado",
+      "value": "Hasta 9 kg"
+    },
+    {
+      "label": "Ajustes",
+      "value": "Altura, inclinación y giro"
+    },
+    {
+      "label": "Instalación",
+      "value": "Abrazadera o perforación"
+    },
+    {
+      "label": "Cableado",
+      "value": "Organizador integrado"
+    }
+  ]
+}
