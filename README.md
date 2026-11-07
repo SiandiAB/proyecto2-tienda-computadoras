@@ -4,6 +4,9 @@ Aplicación de comercio electrónico desarrollada con **Nuxt** (y **Nuxt Content
 **Snipcart** (carrito y pagos) y **Utterances** (comentarios). Tema asignado:
 **tienda de computadoras**.
 
+> **Sitio publicado:** https://tienda-computadoras-siandi.netlify.app
+> **Repositorio:** https://github.com/SiandiAB/proyecto2-tienda-computadoras
+
 ## Requisitos
 
 - Node.js 20 o superior (se probó con Node 24).
@@ -65,7 +68,7 @@ variables de entorno (ver [`.env.example`](./.env.example)):
 | Variable | Descripción |
 | --- | --- |
 | `NUXT_PUBLIC_SNIPCART_API_KEY` | Clave **pública** de API de Snipcart (modo de prueba). Nunca uses la clave secreta. |
-| `NUXT_PUBLIC_SITE_URL` | Dirección pública del sitio (p. ej. `https://mi-sitio.netlify.app`). Snipcart la usa para validar cada compra. |
+| `NUXT_PUBLIC_SITE_URL` | Dirección pública del sitio (p. ej. `https://tienda-computadoras-siandi.netlify.app`). Snipcart la usa para validar cada compra. |
 | `NUXT_PUBLIC_UTTERANCES_REPO` | Repositorio público de GitHub (`usuario/repositorio`) para los comentarios. |
 
 ### Snipcart
