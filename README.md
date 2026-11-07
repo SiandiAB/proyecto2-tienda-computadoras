@@ -89,7 +89,7 @@ variables de entorno (ver [`.env.example`](./.env.example)):
 El repositorio incluye [`netlify.toml`](./netlify.toml) con:
 
 - Build command: `npm run generate`
-- Publish directory: `.output/public`
+- Publish directory: `dist` (en Netlify, `nuxt generate` genera en `dist`; localmente genera en `.output/public`)
 
 Pasos:
 
